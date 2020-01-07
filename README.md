@@ -2,7 +2,6 @@
 
 
 
-
 TO DO:
 [ ]Improve speech
 [ ]Mic only listening when it's needed
